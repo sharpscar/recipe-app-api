@@ -1,0 +1,29 @@
+[33mcommit 8b06a799d895e8ad1f075670491c91fc1497ff54[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: unknown <sharpscar@gmail.com>
+Date:   Mon Dec 11 21:48:58 2023 +0900
+
+    docker파일에 쟝고-어뎁터-postgresql 설치및 설정까지완료
+
+[33mcommit e3baadb1cca5f3890cd4a693b444c23d7710b986[m
+Author: unknown <sharpscar@gmail.com>
+Date:   Sun Dec 10 13:29:36 2023 +0900
+
+    Fixed linting.
+
+[33mcommit f744f78794c0976b7ac1cede3092e73227647510[m
+Author: unknown <sharpscar@gmail.com>
+Date:   Sun Dec 10 13:27:52 2023 +0900
+
+    Break linting.
+
+[33mcommit a15d76f2978777451baa10f29000b1161fc48176[m
+Author: unknown <sharpscar@gmail.com>
+Date:   Sun Dec 10 13:12:56 2023 +0900
+
+    Added Github Actions.
+
+[33mcommit d6f421d6d66dc965d205e63ab5c43cb703c26b03[m
+Author: sharpscar <sharpscar@gmail.com>
+Date:   Sat Dec 9 15:06:26 2023 +0900
+
+    Initial commit
